@@ -44,7 +44,7 @@ bountyRouter
 .get('/',(req, res) => {
     res.send(bounties)
     })
-.get('/:bountyId', (req, res) => {
+.get('/bountyId', (req, res) => {
     const bountyID = params.bountyId;
     const singularBounty = bounties.find(bounty => bounty._id === bountyId);
     res.send(singularBounty)
