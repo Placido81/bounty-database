@@ -5,7 +5,7 @@ const app = express();
 
 const bountyRouter = require('./routes/bountyRouter')
 
-const PORT = 4000;
+const PORT = 3000;
 
 //middleware
 
