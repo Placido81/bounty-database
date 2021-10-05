@@ -39,7 +39,7 @@
     "gulp-gh-pages": "^0.5.4"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://placido81.github.io/bounty-database/"
+    "type": "git"
+    
   }
 }

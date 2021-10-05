@@ -7,7 +7,6 @@ var deploy      = require('gulp-gh-pages');
 gulp.task('deploy', function () {
   return gulp.src("./dist/**/*")
     .pipe(deploy)({
-    remoteUrl:"https://placido81.github.io/bountyhunter-database/",
-    branch: "master"
+  
 })
 });
