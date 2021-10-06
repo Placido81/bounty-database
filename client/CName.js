@@ -1,1 +1,0 @@
-"https://placido81.github.io/bountyhunter-database/"
