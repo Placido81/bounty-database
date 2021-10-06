@@ -33,13 +33,13 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:3001",
+ 
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-gh-pages": "^0.5.4"
   },
   "repository": {
-    "type": "git"
-    
+    "type": "git",
+    "url": "https://placido81.github.io/bountyhunter-database/"
   }
 }
